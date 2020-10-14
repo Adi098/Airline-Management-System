@@ -1,2 +1,2 @@
 # Airline-Management-System
-It's Airline-Management-System Java Applet
+Java Applet for Airline Management.  
